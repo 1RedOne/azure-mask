@@ -1,3 +1,7 @@
+# Placeholder - 
+
+**will be rewriting this with new functionality but needed a good example of a content_script based extension that targets Azure**
+
 ⚠ This is currently not available in the Chrome Web Store because of a trademark infringement on the name. It has been updated with a name change (az-mask) to comply but has been in a status of "Pending Review" since April 2019. If you know of a way to get this resolved please hit me up ⚠
 
 # Azure Mask
